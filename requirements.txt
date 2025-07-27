@@ -1,0 +1,6 @@
+vosk
+soundfile
+transformers
+torch
+nltk
+requests
